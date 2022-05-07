@@ -8,7 +8,7 @@ import br.com.lucas.designpatterns.abstractfactory.factories.UberTransport
 
 const val COMPANY = "barco"
 
-object Main {
+object MainApplication {
 
     private fun configureApplication(): Application {
 
